@@ -1,23 +1,20 @@
-# Data Science Internship Task 1
+# Data Science Internship
 
-## Objective
-Analyze student performance data using Python.
+This repository contains internship tasks completed as part of the Data Science with Python Internship.
 
-## Tools Used
-- Python
-- Pandas
-- Matplotlib
-- Jupyter Notebook
+## Task 1 - Student Performance Analysis
 
-## Tasks Performed
-1. Data Loading
-2. Data Cleaning
-3. Exploratory Data Analysis
-4. Visualization
-5. Conclusions
+* Dataset Cleaning
+* Exploratory Data Analysis
+* Statistical Insights
 
-## Dataset
-Student Performance Dataset (student-mat.csv)
+## Task 2 - Titanic Dataset Analysis
+
+* Data Cleaning
+* Survival Analysis
+* Data Visualization
+* Business Insights
 
 ## Author
+
 Lavanya Tyagi
